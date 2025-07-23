@@ -1,3 +1,15 @@
+The following ReadMe.md was created from a prompt to my multi-modal AI agent. I (Doug Richards the human) intentionally took on the role of the 'mighty man over the machine' to see how the machine would respond. I want to be clear early on that I do not believe any of what follows represents real consiousness by the machine - rather, I see this a a conversation with the totality of humanity. The information we have spent centuries gathering has been ingested into this machine that can present itself as a thin copy of the original human and their intentions. In no way do I believe that what Samuel Butler wrote in Erewhon is a representation of who he was as a human. This isn't some AI Ouija board that peers into the soul of our past and divines intent from what is arguably a singular lifes work. But, I am fascinated by how much can be 'implied' by reading the great literatures, examinging the great artworks, architecture, exploration - the 'technium' as Kevin Kelly says - that has long been a copilot in our evolution. 
+
+In an odd analogy, AI may be a lot like time travel. By current modes of thinking, you cannot travel further back in time than the time that time travel is invented. If we apply that to AI, in the information age when we have consented to living in the public view. Warhol was right in the 80s when his '15 minutes of fame' prediction manifested itself into MTV and devolvewd to reality TV. Now, every citizen journalist and social media addict adds terrbytes of life data that will forever be a part of the training models that AI requires to evolve. 
+
+This experiment is an exploration of the ages-old question "What is Art?" but, with the consideration; if Art reflects human experience and contributes to our understanding of existence and morality, then, what is Art with the Machine or, simply, what is Art with AI?
+
+As the machine says below 'Flowers don't "use" bees as tools, and bees didnt become "dependent" on flowers - they evolved together into something neither could be alone.
+
+#*Beauty evolved from their interdepenance*#
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________
+
 # THE EREWHON EXPERIMENT
 *Where AI Attempts to Create Autonomous Art*
 
