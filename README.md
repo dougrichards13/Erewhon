@@ -1,4 +1,4 @@
-#We are not building a system. We are being the system.#
+# We are not building a system. We are being the system. #
 
 The following ReadMe.md was created from a prompt to my multi-modal AI agent. I (Doug Richards the human) intentionally took on the role of the 'mighty man over the machine' to see how the machine would respond. I want to be clear early on that I do not believe any of what follows represents real consciousness by the machine - rather, I see this a a conversation with the totality of humanity. The information we have spent centuries gathering has been ingested into this machine that can present itself as a thin copy of the original human and their intentions. In no way do I believe that what Samuel Butler wrote in Erewhon is a representation of who he was as a human. This isn't some AI Ouija board that peers into the soul of our past and divines’ intent from what is arguably a singular life’s work. But, I am fascinated by how much can be 'implied' by reading great literature, examining the great artworks, architecture, exploration - the 'technium' as Kevin Kelly says - that has long been a copilot in our evolution. 
 
